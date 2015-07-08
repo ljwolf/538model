@@ -16,3 +16,6 @@ The third-party packages used are
 * [statsmodels](http://statsmodels.sourceforge.net/)
 
 and, of course, [IPython](http://ipython.org/) is used for the notebooks.
+
+
+[![Join the chat at https://gitter.im/ljwolf/538model](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ljwolf/538model?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
